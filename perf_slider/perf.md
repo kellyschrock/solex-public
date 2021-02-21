@@ -44,7 +44,8 @@ and "Tiny copter" in the list of available presets.
 
 ## Solex/TX on HereLink
 
-Since there is only one connection in Solex/TX on HereLink (the corresponding air-side unit), there is only one slider set to deal with.
+Since there is only one connection in Solex/TX on HereLink (the corresponding air-side unit), there is only one slider set to deal with. This appears in the 
+Vehicles screen just like it does on Solex on Android, except you'll only ever see one vehicle. It works just like it does on Solex on Android.
 
 
 ## Solex/Desktop
@@ -55,7 +56,7 @@ Each time you connect a vehicle, a file is created in the `user_vehicle` directo
 
 ## Slider definitions
 
-Here's an example of a slider definition for a copter, giving 3 sliders: Speed, Steering, and Yaw (for missions).
+Here's an example of a slider definition for a copter, with 3 sliders: Speed, Steering, and Yaw (for missions).
 
 ```json
 [
