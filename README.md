@@ -1,4 +1,6 @@
 # Solex Public
 
-This is a place for openly-available Solex stuff, like documentation, examples, etc.
+This is a place for Solex-related documentation, examples, etc.
+
+*	[Performance Settings](perf_slider/perf.md)
 
